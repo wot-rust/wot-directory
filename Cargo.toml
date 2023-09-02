@@ -1,0 +1,11 @@
+[package]
+name = "wot-directory"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Web of Things (WoT) Thing Description Directory"
+repository = "https://github.com/wot-rust/wot-directory"
+keywords = ["wot", "WebofThings"]
+
+[dependencies]
+
